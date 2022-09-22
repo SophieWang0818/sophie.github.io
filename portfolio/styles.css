@@ -19,7 +19,7 @@ html:before{
     position:absolute;
     left:0;
     top:0;
-    content: url("../portfolio/background.jpg");;
+    content: url("https://sophiewang0818.github.io/sophiewang/portfolio/background.jpg");
     opacity:0.4;
 }
 
